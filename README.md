@@ -1,10 +1,12 @@
 # Encapsulation-Csharp
 This repository contains three simple C# programs that demonstrate Object-Oriented Programming (OOP) concepts such as encapsulation, constructors, properties, and data validation. These programs are suitable for beginners and academic practice.
 
-📌 Programs Included
+ Programs Included
+
 BankAccount Management System
 Employee Management System
 Product Inventory System
+
 🟢Program 1: BankAccount
 Description
 The BankAccount class represents a basic bank account system. It allows users to deposit and withdraw money while keeping the account balance secure using encapsulation.
